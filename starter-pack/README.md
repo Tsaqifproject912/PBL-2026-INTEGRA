@@ -1,4 +1,4 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# [TIM INTEGRA] — Digital Problem Framing Mini Project
 
 ## Tim
 
