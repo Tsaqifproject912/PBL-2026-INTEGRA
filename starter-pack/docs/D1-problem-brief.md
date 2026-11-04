@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Tini laundry dan kos putri]
+**Tim**: [Tsaqif Naafi Ghazalah, Muhammad Deryl Vezel, Galang Maulana, Muhammad Raihan Ibnu Rafi] | **Tanggal**: [04/11/2026] | **Versi**: [v1.0]
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -11,9 +11,9 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
+- **Nama unit usaha**: [Tini Laundry dan kos]
+- **Jenis usaha / layanan**: [Laundry]
+- **Lokasi**: [Temutug, Tamanan, Banguntapan, Bantul]
 - **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
 - **Narahubung / pemilik**: [nama, jabatan, kontak]
 
