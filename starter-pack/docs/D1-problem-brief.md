@@ -14,20 +14,20 @@
 - **Nama unit usaha**: [Tini Laundry dan kos]
 - **Jenis usaha / layanan**: [Laundry]
 - **Lokasi**: [Temutug, Tamanan, Banguntapan, Bantul]
-- **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Deskripsi singkat operasional**: [usaha yang bergerak di bidang jasa laundry dan melayani jasa cuci setrika dll, ibu tini dan suami, buka mulai pukul 08.00 - 21.00]
+- **Narahubung / pemilik**: [ibu Tini, pemilik usaha, 089654609751]
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
+- **Masalah utama**: [Setelah kami melakukan observasi dan wawancara secara langsung kepada pemilik usaha, kami menemukan beberapa problem yang menurut kami ini sangat bermasalah dan mungkin kedepannya akan berdampak pada usaha. yaitu masalah tentang belum tersedianya QRIS untuk metode pembayaran (untuk sekarang masih mengandalkan transfer antar bank, yang dimana hal ini sangat memberatkan bagi pelanggan karna transfer antar bank membutuhkan biaya admin yang dibebankan kepada si pentransfer)]
+- **Pihak yang terdampak**: [yang terdampak adalah pelanggan yang ingin membayar dengan e wallet]
+- **Frekuensi / keparahan**: [kasus ini terjadi bilamana pelanggan ingin membayar secara nontunai, lumayan sering , mengganggu jika sudah terkena biaya admin beberapa kali ]
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [fitur/cakupan yang dikerjakan]
-- **Tidak diselesaikan (dan alasan)**: [di luar cakupan + alasan]
-- **Asumsi yang dipakai**: [asumsi kunci]
+- **Diselesaikan dalam proyek ini**: [memahamkan mitra betapa pentingnya membuat QRIS sebagai metode pembayaran agar pelanggan bisa terbebas dari admin ketika transfer antar bank dan membantu mengarahkan dalam pembuatan aku gopay merchant]
+- **Tidak diselesaikan (dan alasan)**: [urusan legalitas perpajakan usaha - alasannya projek kami hanya membantu mengedukasi dan meluruskan pemahaman mitra bahwa penggunaan QRIS tidak serta merta membuat usaha rumahan langsung dikenai potongan pajak yang memberatkan]
+- **Asumsi yang dipakai**: [keterbukaan pemikiran mitra terhadap digitalisasi : mitra bersedia menerima saran edukasi dari tim kami terkait kemudahan transaksi digital]
 
 ## 4. Data Kuantitatif Pendukung
 
