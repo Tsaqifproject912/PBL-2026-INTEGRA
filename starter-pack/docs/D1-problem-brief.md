@@ -19,15 +19,15 @@
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [Setelah kami melakukan observasi dan wawancara secara langsung kepada pemilik usaha, kami menemukan beberapa problem yang menurut kami ini sangat bermasalah dan mungkin kedepannya akan berdampak pada usaha. yaitu masalah tentang belum tersedianya QRIS untuk metode pembayaran (untuk sekarang masih mengandalkan transfer antar bank, yang dimana hal ini sangat memberatkan bagi pelanggan karna transfer antar bank membutuhkan biaya admin yang dibebankan kepada si pentransfer)]
-- **Pihak yang terdampak**: [yang terdampak adalah pelanggan yang ingin membayar dengan e wallet]
-- **Frekuensi / keparahan**: [kasus ini terjadi bilamana pelanggan ingin membayar secara nontunai, lumayan sering , mengganggu jika sudah terkena biaya admin beberapa kali ]
+- **Masalah utama**: [Setelah melakukan observasi dan wawancara secara langsung kepada pemilik usaha, kami menemukan bahwa Tini Laundry belum melakukan rekapitulasi pendapatan secara rutin dan terstruktur. Pencatatan transaksi yang belum dikelola dengan baik menyebabkan pemilik usaha kesulitan mengetahui total pendapatan serta menghitung keuntungan bersih yang diperoleh dalam periode tertentu. Hal ini berpotensi menghambat pemantauan kondisi keuangan dan pengambilan keputusan usaha.]
+- **Pihak yang terdampak**: [Pemilik usaha Tini Laundry, karena kesulitan memantau pendapatan, pengeluaran, dan keuntungan usaha secara akurat.]
+- **Frekuensi / keparahan**: [Permasalahan ini terjadi dalam aktivitas operasional sehari-hari karena belum adanya rekapitulasi keuangan secara rutin. Dampaknya cukup signifikan karena pemilik usaha tidak memiliki gambaran yang jelas mengenai perkembangan pendapatan dan keuntungan usahanya. ]
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [memahamkan mitra betapa pentingnya membuat QRIS sebagai metode pembayaran agar pelanggan bisa terbebas dari admin ketika transfer antar bank dan membantu mengarahkan dalam pembuatan aku gopay merchant]
-- **Tidak diselesaikan (dan alasan)**: [urusan legalitas perpajakan usaha - alasannya projek kami hanya membantu mengedukasi dan meluruskan pemahaman mitra bahwa penggunaan QRIS tidak serta merta membuat usaha rumahan langsung dikenai potongan pajak yang memberatkan]
-- **Asumsi yang dipakai**: [keterbukaan pemikiran mitra terhadap digitalisasi : mitra bersedia menerima saran edukasi dari tim kami terkait kemudahan transaksi digital]
+- **Diselesaikan dalam proyek ini**: [Membantu mitra memahami pentingnya rekapitulasi pendapatan serta merancang sistem pencatatan dan rekapitulasi keuangan sederhana yang dapat membantu mitra mencatat pemasukan, pengeluaran, dan menghitung keuntungan usaha secara lebih terstruktur.]
+- **Tidak diselesaikan (dan alasan)**: [Pengelolaan laporan keuangan secara profesional dan integrasi dengan sistem akuntansi berskala besar. Hal ini karena proyek kami berfokus pada penyediaan solusi sederhana yang sesuai dengan kebutuhan dan kemampuan operasional mitra]
+- **Asumsi yang dipakai**: [Mitra bersedia melakukan pencatatan transaksi secara rutin dan memberikan informasi yang diperlukan, seperti data pemasukan dan pengeluaran, serta terbuka untuk menggunakan sistem digital sederhana dalam membantu pengelolaan keuangan usaha.]
 
 ## 4. Data Kuantitatif Pendukung
 
@@ -39,7 +39,10 @@
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
-- Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+- Menyediakan fitur pencatatan pemasukan dari setiap transaksi laundry.
+- Menyediakan fitur pencatatan pengeluaran operasional usaha.
+- Menghitung total pendapatan dan keuntungan secara otomatis berdasarkan data yang dimasukkan.
+- Menyediakan rekapitulasi keuangan harian, mingguan, dan bulanan.
 
 ## 6. Daftar Rujukan / Bukti
 
