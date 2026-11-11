@@ -33,8 +33,8 @@
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
+| [mis. waktu layanan rata-rata] | [3-5 menit/orang] | [observasi] | [10/11] |
+| [mis. jumlah transaksi per hari] | [4-5 orang/hari] | [observasi] | [10/11] |
 | [tambah baris jika perlu] | | | |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
@@ -43,8 +43,8 @@
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
+- [Observasi lapangan tanggal 10 November 2026]
+- [Wawancara pemilik tanggal 10 November 2026]
 - [Dokumen pendukung lainnya]
 
 ---
