@@ -1,7 +1,7 @@
 # D2 — System & Solution Design
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Tini Laundry]
+**Tim**: [Tsaqif Naafi Ghazalah,Galang Maulana,Muhammad Deryl Vezel] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 **Template**: TPL-02
 
 > **Petunjuk**: Hapus teks dalam `[...]` setelah diisi.
@@ -13,8 +13,8 @@
 
 | # | User Story | Prioritas |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [Tinggi/Sedang/Rendah] |
-| 2 | | |
+| 1 | Sebagai [Pemilik Usaha], saya ingin [Melihat ringkasan rekapitulasi harian total pendapatan dan pengeluaran usaha secara otomatis] sehingga [ Pemilik dapat mengetahui tingkat keuntungan dan kerugian harian dengan akurasi > 90% tanpa perlu menghitung nota fisik manual setiap malam ] | [Tinggi] |
+| 2 | Sebagai Pelanggan, Saya ingin Melakukan dan memproses pembayaran menggunakan metode QRIS secara instan sehingga Pelanggan dapat bertransaksi dengan praktis tanpa terbebani biaya admin transfer bank dan efisiensi transaksi meningkat hingga 60% | Rendah |
 | 3 | | |
 | 4 | *(tambah jika perlu)* | |
 
