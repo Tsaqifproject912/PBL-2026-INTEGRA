@@ -28,47 +28,47 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Tini laundry]
+**Tim**: [Tsaqif Naafi Ghazalah, Galang Maulana, Muhammad Deryl Vezel, Muhammad Raihan Ibnu Rafi] | **Tanggal**: [14/10/2026] | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: [tini laundry]
+- Jenis usaha / layanan: [laundry]
+- Lokasi: [Tamanan, Bantul]
+- Deskripsi operasional: [jasa cuci baju, pelanggan dan penyedia jasa, Beroperasi dari pukul 08.00 - 21.00]
+- Narahubung / pemilik: [ibu Watini, Pemilik, 089654609751]
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: [...]
+- Fenomena yang diamati di lapangan: [pemilik usaha belum tidak melakukan rekap pendapatan rutin sehingga tidak mengetahui berapa keuntungan yang didapat]
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
   | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
   |---|---|---|---|
-  | [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-- Kutipan observasi/wawancara kunci: [...]
+  | [mis. waktu layanan rata-rata] | [3-5 menit/orang] | [observasi dan wawancara] | [10/11] |
+- Kutipan observasi/wawancara kunci: ["Disini sudah tidak ada karyawan mas, jadinya kami tidak lagi menghitung pendapatan perminggu]
 
 ### 4. Insight
-- Pemahaman mengapa masalah ini terjadi: [...]
+- Pemahaman mengapa masalah ini terjadi: [karna pemilik usaha merasa uang yang didapatnya akan berputar saja disekitar operasional dan tidak ada uang yang harus dibagi kepada karyawan]
 
 ### 5. Problem Statement
-- Pernyataan masalah yang jelas (bukan solusi): [...]
-- Pihak yang terdampak & keparahan: [...]
+- Pernyataan masalah yang jelas (bukan solusi): [rekap pendapatan adalah hal yang sangat penting, sehingga pemilik usaha bisa mengukur apakah bisnisnya mengalami kerugian atau mendapatkan keuntungan. jika tidak melakukan rekap, keuntungan maupun kerugian tidak bisa terdeteksi]
+- Pihak yang terdampak & keparahan: [pelaku usaha & sedang]
 
 ### 6. Impact
-- Dampak bila masalah tidak diselesaikan: [...]
+- Dampak bila masalah tidak diselesaikan: [pelaku usaha tidak bisa memastikan apakah usahanya mengalami kerugian atau mendapatkan keuntungan]
 
 ### 7. Scope
-- Diselesaikan dalam proyek ini: [...]
+- Diselesaikan dalam proyek ini: [Membantu mitra memahami pentingnya rekapitulasi pendapatan serta merancang sistem pencatatan dan rekapitulasi keuangan sederhana yang dapat membantu mitra mencatat pemasukan, pengeluaran, dan menghitung keuntungan usaha secara lebih terstruktur]
 
 ### 8. Non-Scope
-- Tidak diselesaikan (dan alasan): [...]
+- Tidak diselesaikan (dan alasan): [Pengelolaan laporan keuangan secara profesional dan integrasi dengan sistem akuntansi berskala besar. Hal ini karena proyek kami berfokus pada penyediaan solusi sederhana yang sesuai dengan kebutuhan dan kemampuan operasional mitra]
 
 ### 9. Success Metric
-- Metrik yang menunjukkan masalah teratasi: [...]
+- Metrik yang menunjukkan masalah teratasi: [Kelengkapan pencatatan pemasukan, Ketersediaan laporan keuangan]
 
 ### 10. Daftar Rujukan / Bukti
-- [Observasi lapangan tanggal ...], [Wawancara pemilik tanggal ...], [Dokumen pendukung]
+- [Observasi lapangan tanggal 11/11], [Wawancara pemilik tanggal 11/11], [Dokumen pendukung]
 
 ---
 
@@ -76,8 +76,8 @@ Related Files:
 *Dipenuhi dari hasil WS05–WS08.*
 
 ## System & Solution Design
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Tini Laundry]
+**Tim**: [Tsaqif Naafi Ghazalah, Galang Maulana, Muhammad Deryl Vezel, Muhammad Raihan Ibnu Rafi] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 
 ### 1. User
 - Pengguna utama solusi & yang terdampak: [...]
@@ -85,30 +85,31 @@ Related Files:
 ### 2. User Story
 | # | User Story | Prioritas (Tinggi/Sedang/Rendah) |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [ ] |
-| 2 | ... | ... |
+| 1 | Sebagai Pemilik Usaha, saya ingin Melihat ringkasan rekapitulasi harian total pendapatan dan pengeluaran usaha secara otomatis sehingga Pemilik dapat mengetahui tingkat keuntungan dan kerugian harian dengan akurasi > 90% tanpa perlu menghitung nota fisik manual setiap malam | tinggi |
+| 2 | Sebagai Pemilik Usaha, saya ingin melihat laporan rekapitulasi keuangan berdasarkan periode harian, mingguan, dan bulanan sehingga dapat memantau perkembangan keuangan usaha. | tinggi |
 
 ### 3. Requirements
-- Daftar kebutuhan yang diturunkan dari D1: [...]
+- Daftar kebutuhan yang diturunkan dari D1: [Sebagai Pemilik Usaha, saya ingin melihat laporan rekapitulasi keuangan berdasarkan periode harian, mingguan, dan bulanan sehingga dapat memantau perkembangan keuangan usaha.]
 
 ### 4. Acceptance Criteria
 | # | Kriteria Penerimaan (terukur & dapat diuji) |
 |---|---|
-| 1 | [Kondisi yang dapat diperiksa, mis. "sistem menampilkan total dalam < 2 detik"] |
-| 2 | ... |
+| 1 | Sistem dapat menghitung keuntungan bersih dengan rumus total pemasukan dikurangi total pengeluaran secara akurat. |
+| 2 | Sistem dapat menampilkan rekapitulasi keuangan berdasarkan periode harian, mingguan, dan bulanan. |
 
 ### 5. Success Metric
 | Metrik | Baseline | Target | Cara Mengukur |
 |---|---|---|---|
-| [metrik] | [angka] | [angka] | [cara ukur] |
+| [Keakuratan perhitungan keuntungan] | [Belum dihitung secara rutin] | [100% sesuai perhitungan manual berdasarkan data yang sama] | [Membandingkan hasil sistem dengan perhitungan manual] |
+| [Ketersediaan laporan keuangan] | [Belum tersedia secara terstruktur] | [Tersedia laporan harian, mingguan, dan bulanan] | [Menguji fitur laporan berdasarkan periode yang dipilih] |
 
 ### 6. Input-Process-Output (IPO)
-- Input: ...
-- Proses: ...
-- Output: ...
+- Input: data yang masuk berupa jumlah transaksi pelanggan, tanggal, jumlah uang yang diterima
+- Proses: sistem mengumpulkan data yang sudah dikumpulkan kemudian mengolahnya sesuai dengan kebutuhan pemilik usaha
+- Output: data matang berupa pemasukan dan pengeluaran per bulan, serta berapa keuntungan yang didapat
 
 ### 7. Data
-- Data yang disimpan & sumbernya: [...]
+- Data yang disimpan & sumbernya: [data transaksi keuangan yang bersumger dari transaksi pelanggan]
 
 ### 8. Flowchart
 [Gambar/teks sederhana: mulai → proses → keputusan → selesai]
@@ -120,7 +121,7 @@ Related Files:
 - Konsep solusi: bagaimana kebutuhan dijawab solusi & peta komponen SI (proses-data-aplikasi-infrastruktur).
 
 ### 11. Hasil Validasi Pemilik Usaha
-- Tanggal validasi: [DD/MM/YYYY] | Feedback: [...] | Perubahan setelah validasi: [...]
+- Tanggal validasi: [11/11/2026] | Feedback: [menyetujui] | Perubahan setelah validasi: [...]
 
 ---
 
@@ -128,8 +129,8 @@ Related Files:
 *Dipenuhi dari hasil WS07, WS09–WS13.*
 
 ## Tested Solution Prototype
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [tini laundry]
+**Tim**: [Tsaqif Naafi Ghazalah, Galang Maulana, Muhammad Deryl Vezel, Muhammad Raihan Ibnu Rafi] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
 
 ### 1. Ringkasan Solusi
 - Masalah yang diselesaikan: [...]

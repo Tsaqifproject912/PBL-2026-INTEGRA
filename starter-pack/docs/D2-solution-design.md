@@ -52,10 +52,10 @@ Input  ──▶  Proses  ──▶  Output
   └───── Data/Penyimpanan ────┘
 ```
 
-- **Input**: [apa data yang masuk]
-- **Proses**: [apa yang dilakukan sistem]
-- **Output**: [apa hasil yang keluar]
-- **Data/Penyimpanan**: [di mana data disimpan, mis. file CSV]
+- **Input**: [data yang masuk berupa jumlah transaksi pelanggan, tanggal, jumlah uang yang diterima]
+- **Proses**: [sistem mengumpulkan data yang sudah dikumpulkan kemudian mengolahnya sesuai dengan kebutuhan pemilik usaha]
+- **Output**: [data matang berupa pemasukan dan pengeluaran per bulan, serta berapa keuntungan yang didapat]
+- **Data/Penyimpanan**: [data disimpan di perangkat milik pelaku usaha, mis. file CSV]
 
 ### 4.3 Flowchart & Pseudocode
 
